@@ -1,0 +1,162 @@
+.clr{
+	clear: both;
+	width: 0px;
+	height: 0px;
+}
+/*清楚浮动
+ * 
+ */
+#container{
+	height: ;
+	margin: auto;
+}
+/*总div
+ * 
+ */
+#billboard img{
+	width: 100%;height: 80px;
+}
+/*广告位置
+        * 
+        */
+       #header{
+       	margin: auto;
+       	width: 1273px;
+       	height: 190px;
+       	background: solid rgba(200,200,200,0);
+       }
+       #logo{
+       	height: 170px;
+       	width: 190px;
+       	float: left;
+       	background: solid rgba(200,200,200,0);
+       }
+#column{
+	float: left;
+	    height: 30px;
+        background: #e3e4e5;     
+        border-top: 1px solid #ddd
+}
+#nav li{
+	float: right;
+}
+#nav a{
+	line-height: 30px;
+	font-size: 12px;
+	font-family: "微软雅黑",simhei,sans-serif;
+	color: #363636;
+	display: block;
+	height: 30px;
+	width: 90px;
+	text-align: center;
+}
+#biao b{
+	background:;width: 90px;
+	margin-top: 15px;
+	margin-right: 1px;
+	float: left;
+}
+#biao a{
+	line-height: 30px;
+	font-size: 20px;
+	font-family: "微软雅黑",simhei,sans-serif;
+	color: #363636;
+	display: block;
+	height: 30px;
+	width: 90px;
+	text-align: center;
+}
+/*header区域设置
+ * 
+ */
+#main {
+	 	margin: auto;
+       	width: 1273px;
+       	height: 190px;
+       	background: solid rgba(200,200,200,0);
+}
+#xulie {
+	width: 160px;
+	float: left;
+	background: #555555;
+	margin: 10px;
+}
+#xulie a{
+	padding-left: 10px;
+	line-height: 30px;
+	font-size: 12px;
+	font-family: "微软雅黑",simhei,sans-serif;
+	color: #363636;
+	display: block;
+	height: 30px;
+	width: 190px;
+	text-align:left;
+}
+/*
+ * 左半区域
+ */
+#tupian{
+	width: 790px;
+	height: 450px;
+	margin: 10px;
+	float: left;
+}
+#xiao1{
+	width: 380px;
+	height: 120px;
+	margin: 10px 10px 10px 0px;
+	float: left;
+}
+#xiao2{
+	width: 380px;
+	height: 120px;
+    margin: 10px 0px 10px 10px;
+	float:left;
+}
+#rsder{
+	width: 270px;
+	float: right;
+}
+#art{
+	margin: 10px;
+	padding-bottom: 10px;
+}
+#art a{
+	margin-left: 10px;
+	line-height: 20px;
+	font-size: 12px;
+	font-family: "微软雅黑",sans-serif,simsun;	
+}
+#rsder td{
+	font-weight: bold;
+	border-color: #363636;
+	border-width: 1px;
+}
+/*
+ * 右区域
+ */
+#footer{
+	width: 1273px;
+	margin: auto;
+}
+.five{
+	width: 243px;
+	float: left;
+	background: solid rgba(200,200,200,0);
+	margin: 5px;
+}
+.five li{
+	font-size:12px ;
+	padding-left:10px ;
+	padding-bottom: 10px;
+	
+}
+.five h3{
+	font-size: 20px;
+	color: red;
+	padding-left: 10px;
+	font-family: "微软雅黑",simsun,sans-serif;
+}
+/*
+ * footer区域
+ */
